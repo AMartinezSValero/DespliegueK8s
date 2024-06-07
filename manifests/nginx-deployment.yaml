@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: nginx
-        image: nginx
+        image: amartinezm7/aa-github:nginx-v0
         ports:
         - containerPort: 80
